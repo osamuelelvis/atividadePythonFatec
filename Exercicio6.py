@@ -1,3 +1,4 @@
+# Exercicio 6: Troca de valores x e y
 x = input("Digite o valor de X: ");
 y = input("Digite o valor de Y: ");
 
