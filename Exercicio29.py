@@ -1,7 +1,8 @@
 # Exercicio 29: Investimento em poupança ou renda fixa
 # Declarar
-poupanca: int
-renda_fixa: int
+opcao: int
+valor_investido: float
+valor_final: float
 # Inicio
 print("Seja bem vindo! Digite 1 para poupança ou digite 2 para renda fixa.")
 opcao = int(input("Digite sua opção: "))
