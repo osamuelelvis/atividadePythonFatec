@@ -13,6 +13,9 @@ else:
     maior = b
     menor = a
 
+    resultado = maior % menor
+    print("O resultado da divisão é", resultado)
+    
 if (maior % menor == 0):
     print("O número", maior, "é múltiplo de", menor)
 else:
