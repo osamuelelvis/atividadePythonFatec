@@ -14,4 +14,5 @@ else:
 
 horas = duracao // 60
 minutos = duracao % 60
-print("O jogo durou ", horas, " horas e ", minutos, " minutos.")
+print("O jogo durou", horas, "horas e", minutos, "minutos.")
+# Fim
