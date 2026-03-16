@@ -2,10 +2,10 @@
 # Declarar
 n1: int
 n2: int
+resultado = 0
 # Inicio
 n1 = int(input("Digite o primeiro número: "))
 n2 = int(input("Digite o segundo número: "))
-resultado = 0
 
 if n1 > n2:
     for i in range(n2, n1 + 1, 1):
