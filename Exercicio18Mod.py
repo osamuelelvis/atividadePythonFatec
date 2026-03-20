@@ -1,7 +1,11 @@
 # Exercício 18 (modularizado): Programa que compara maior e menor
 # Declaração de variáveis
+n1: int
+n2: int
+r: int 
+
 def maior_menor():
-    r: int
+    global r
     if n1 > n2:
         r = n1 - n2
     else:
