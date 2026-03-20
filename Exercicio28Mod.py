@@ -1,5 +1,4 @@
 # Exercicio 28 (modularizado): Calcular e mostrar o novo preço
-
 def calcular_novo_preco(preco_atual, media_mensal, preco_novo):
     if (media_mensal < 500 and preco_atual < 30):
         preco_novo = preco_atual * 1.10
