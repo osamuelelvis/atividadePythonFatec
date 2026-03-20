@@ -1,5 +1,4 @@
-
-# Exercício 19 (modularizado): 
+# Exercício 19 (modularizado): Comparar maior e menor
 n1: int
 n2: int
 
