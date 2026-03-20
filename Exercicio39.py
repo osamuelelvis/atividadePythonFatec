@@ -1,0 +1,1 @@
+# Exercício 39: 39.	Calcule a quantidade de grãos contidos em um tabuleiro de xadrez
